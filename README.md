@@ -1,6 +1,6 @@
 ## Hi, I'm Kanak 👋
 
-Here's my [📄 Resume]([Kanak_Resume.pdf](https://github.com/Kanak29p/Kanak29p/blob/main/Kanak_Resume.pdf))
+Here's my [📄 Resume]((https://github.com/Kanak29p/Kanak29p/blob/main/Kanak_Resume.pdf))
 
 <!--
 **Kanak29p/Kanak29p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
