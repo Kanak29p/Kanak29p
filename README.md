@@ -1,4 +1,3 @@
-<h3 align="center">🎨 Featured Design</h3>
 
 <p align="center">
   <a href="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307">
