@@ -11,13 +11,15 @@
 
 ### 💬 About Me  
 
-I am a **Computer Science undergraduate** interested in web development and cloud technologies.  
-I build full-stack web applications using the **MERN stack (React, Node.js, Express, MongoDB)** and enjoy learning how real-world systems are deployed and managed.
+I am a **Computer Science undergraduate** interested in **web development** and **cloud technologies**.  
 
-I have hands-on experience deploying projects on **AWS (EC2, S3)**, configuring web servers such as **Nginx/Apache**, and working with databases like **MongoDB and MySQL**.  
-Currently, I am focused on improving my backend development skills, learning cloud fundamentals, and building practical software projects.
+I build full-stack applications using the **MERN stack (React, Node.js, Express, MongoDB)** and enjoy understanding how real-world systems are designed, deployed, and managed.  
 
-I enjoy solving problems, learning new technologies, and continuously improving my development skills.
+I have hands-on experience deploying projects on **AWS (EC2, S3)**, configuring web servers such as **Nginx and Apache**, and working with databases like **MongoDB and MySQL**.  
+
+Currently, I am focused on strengthening my **backend development skills**, learning **cloud fundamentals**, and building practical software projects.  
+
+I enjoy solving problems, exploring new technologies, and continuously improving as a developer.
 
 ---
 
