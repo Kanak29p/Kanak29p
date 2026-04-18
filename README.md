@@ -70,5 +70,12 @@ I enjoy solving problems, learning new technologies, and continuously improving 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+### 🧰 Certificates
+[![Coursera](https://img.shields.io/badge/Coursera-Bits%20and%20Bytes%20of%20Computer%20Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](YOUR_CERTIFICATE_LINK)
 
-⭐ Thanks for visiting my profile!
+
+
+---
+
+⭐ Thanks for visiting my profile!  
+Always open to learning, building, and collaborating on impactful software projects.
