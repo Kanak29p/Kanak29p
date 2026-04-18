@@ -1,5 +1,9 @@
+<h3 align="center">🎨 Featured Design</h3>
+
 <p align="center">
-  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <a href="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" width="800"/>
+  </a>
 </p>
 
 <h2 align="center">Kanak Paliwal</h2>
