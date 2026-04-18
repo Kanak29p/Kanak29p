@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745307">
-    <img src="kanak-bg-2.gif" width="800"/>
+    <img src="kanak-bg-2.gif" width="1000"/>
   </a>
 </p>
 
