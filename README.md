@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h2 align="center">Kanak Paliwal</h2>
-<h3 align="center">Computer Science Student | Full Stack Web Developer | Cloud Learner</h3>
+<h1 align="center">Kanak Paliwal</h1>
+<h3 align="center">Building Web Applications • Exploring Cloud • Learning by Doing</h3>
 
 
 ### 💬 About Me  
@@ -72,7 +72,7 @@ I enjoy solving problems, exploring new technologies, and continuously improving
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-### 🧰 Certificates
+### 📜 Certificates
 [![Coursera](https://img.shields.io/badge/Coursera-Bits%20and%20Bytes%20of%20Computer%20Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](YOUR_CERTIFICATE_LINK)
 
 
